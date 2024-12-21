@@ -1,0 +1,14 @@
+{
+    "skill":"DevOps", 
+    "year":2023, 
+    "Tech":
+        {
+            "Cloud":"Jenkins", 
+            "GitOps":
+            [
+                "GitLab", 
+                "ArgoCD", 
+                "Tekton"
+            ]
+        }
+    }
